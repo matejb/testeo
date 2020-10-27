@@ -2,6 +2,6 @@ package testeo
 
 import "fmt"
 
-func Wat(msg string) {
+func Wat() {
 	fmt.Println("WAT")
 }
